@@ -15,6 +15,7 @@ builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession();
 builder.Services.AddScoped<Cart>(sp => SessionCart.GetCart(sp)); 
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddServerSideBlazor();
 
 var app = builder.Build();
 app.UseStaticFiles();
@@ -31,6 +32,8 @@ app.MapControllerRoute("pagination",
     new { Controller = "Home", action = "Index", productPage = 1 });
 app.MapDefaultControllerRoute();
 app.MapRazorPages();
+app.MapBlazorHub(); 
+app.MapFallbackToPage("/admin/{*catchall}", "/Admin/Index");
 
 SeedData.EnsurePopulated(app);
 app.Run();

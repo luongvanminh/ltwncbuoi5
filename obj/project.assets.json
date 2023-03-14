@@ -1976,11 +1976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/SportsStore.csproj",
+      "projectUniqueName": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/SportsStore.csproj",
+      "projectPath": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/SportsStore.csproj",
       "packagesPath": "/Users/minhluongvan/.nuget/packages/",
-      "outputPath": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/",
+      "outputPath": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/minhluongvan/.nuget/NuGet/NuGet.Config"

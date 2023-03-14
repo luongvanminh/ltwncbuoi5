@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cbw8ykbfsVYINRyY2U9vQFTrBSNomqfv8OU9FgduaFxAqDIldWl9GVWCEnImlXtDrhpPxBSgjdYdF4NKmfbWmQ==",
+  "dgSpecHash": "O6gl0zJ1yF5X7y2c/X+8nxo5bGVfabO3GYpFaUrSE3Riu4KhBtAoO+j40p6bI1nA8Gfj7ixR0Yg4kRUm4KnNtg==",
   "success": true,
-  "projectFilePath": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/SportsStore.csproj",
+  "projectFilePath": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/SportsStore.csproj",
   "expectedPackageFiles": [
     "/Users/minhluongvan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/minhluongvan/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
